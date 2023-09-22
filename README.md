@@ -10,5 +10,5 @@ The data can be downloaded at this address:https://www.kaggle.com/city-of-seattl
 Detailed readings were taken by your agents in 2015 and 2016. However, these readings are expensive to obtain, and from those already taken, you want to try to predict the CO2 emissions and the total energy consumption of buildings for which they have not yet been measured.
 
 ## The mission
-Carry out a short exploratory analysis.
-Test different prediction models in order to best respond to the problem.
+1. Carry out a short exploratory analysis.
+2. Test different prediction models in order to best respond to the problem.
