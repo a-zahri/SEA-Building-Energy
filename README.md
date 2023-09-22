@@ -1,5 +1,6 @@
 # SEA-Building-Energy
-- Project display
+
+## Project display
 To achieve its goal of being a carbon-neutral city by 2050, the city of Seattle is paying close attention to emissions from non-residential buildings.
 
 ## Data
